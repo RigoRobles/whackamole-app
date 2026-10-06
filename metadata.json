@@ -1,0 +1,6 @@
+{
+  "name": "Teacher Rigo's Whack a Mole",
+  "description": "An arcade-style grammar game for high school English students featuring 3D visuals, 80+ adaptive questions, character customization, and achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
